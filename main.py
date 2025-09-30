@@ -2,4 +2,4 @@
 import secrets
 
 projects = ["Project A", "Project B", "Project C", "Project D"]
-print("Dự án ngẫu nhiên:", secrets.choice(projects))--06--10--11--13--14--15--18--21--23--24--25--28--29--31--01--03--05--07--09--10--12--13--15--18--19--25--26--27
+print("Dự án ngẫu nhiên:", secrets.choice(projects))--06--10--11--13--14--15--18--21--23--24--25--28--29--31--01--03--05--07--09--10--12--13--15--18--19--25--26--27--30
